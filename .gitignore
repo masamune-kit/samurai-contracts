@@ -1,0 +1,16 @@
+node_modules
+coverage
+coverage.json
+typechain
+metadata
+
+#Hardhat files
+cache
+artifacts
+
+# envs
+.env*
+!.env.example
+
+# misc
+.DS_Store
